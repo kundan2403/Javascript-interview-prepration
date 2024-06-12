@@ -7,7 +7,7 @@ let sum = arr.reduce((acc, current) => {
 }, 0)
 
 console.log(sum);
-
+ 
 /* cal max elm from array */
 
 let max = arr.reduce((acc, current) => {
