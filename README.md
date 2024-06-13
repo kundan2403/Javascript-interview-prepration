@@ -1,1 +1,1 @@
-# Javascript-interview-prepration
+# Javascript-prepration
